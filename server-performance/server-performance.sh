@@ -23,4 +23,4 @@ ps -eo pid,comm,%cpu --sort=-%cpu | head -n 6
 
 # Display top 5 processes by memory usage
 echo -e "\n===== Top 5 Processes by Memory Usage ====="
-ps -eo pid,comm,%mem --sort=-%mem | head -n 6
+ps -eo pid,comm,%mem --sort=-%mem | head -n 6\
