@@ -4,7 +4,7 @@
 [https://github.com/UtopiaWorld/bash-scripts](https://github.com/UtopiaWorld/bash-scripts)
 
 ## Reference Project
-[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+https://roadmap.sh/projects/nginx-log-analyser
 
 This script analyzes an nginx access log and provides:
 - Top 5 IP addresses with the most requests
