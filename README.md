@@ -1,2 +1,3 @@
 # bash-scripts
-Bash scripts for linux
+## Project URL
+[https://github.com/UtopiaWorld/bash-scripts](https://github.com/UtopiaWorld/bash-scripts)
