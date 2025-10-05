@@ -1,4 +1,6 @@
 # Server Performance Script
+## Project URL
+[https://github.com/UtopiaWorld/bash-scripts](https://github.com/UtopiaWorld/bash-scripts)
 
 This script provides a user-friendly summary of your Linux system's performance, including CPU, memory, disk usage, and top resource-consuming processes.
 
